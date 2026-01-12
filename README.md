@@ -25,8 +25,10 @@ Currently building real-world projects using SQL and Python, applying techniques
 
 ## Projects
 
-### Project 1 — *Coming Soon*
-Brief description of the problem, approach, and results.
+### Customer Retention Analysis
+SQL, Python, Pandas  
+Analyzed user behavior and retention patterns using cohort analysis.  
+[View Project](./customer-retention-analysis)
 
 ---
 
