@@ -1,38 +1,37 @@
-# Data Analytics Portfolio
+# Laura Gomez — Data Analyst
 
-**Laura Gomez**  
-Data Analyst (Junior) | SQL • Python • Pandas • Visualización • Google Sheets
-
-📍 Guadalajara, MX | 🌐 Abierta a oportunidades remotas
+SQL • Python • Pandas • Data Visualization • Google Sheets  
+Guadalajara, MX | Open to Remote Opportunities
 
 ---
 
-## 👋 Sobre mí
+## About Me
 
-Soy Laura Gomez, analista de datos en formación en transición de carrera. Me enfoco en convertir datos en insights accionables mediante limpieza, análisis exploratorio, métricas de negocio y visualización.
+Data Analyst in training with strong focus on transforming raw data into actionable insights.  
+Experienced in data cleaning, exploratory data analysis, business metrics, and data visualization.
 
-Actualmente desarrollo proyectos con **SQL** y **Python (Pandas)**, aplicando técnicas como **CTEs, joins, agregaciones y cohort analysis**, además de análisis exploratorio (EDA) y reportes.
+Currently building real-world projects using SQL and Python, applying techniques such as CTEs, joins, aggregations, cohort analysis, and EDA.
 
+---
 
-## 🧰 Habilidades
+## Skills
 
-- **SQL:** CTEs, joins, agregaciones, cohort analysis
-- **Python:** Pandas, limpieza de datos, EDA
-- **Visualización:** gráficos y reportes
-- **Spreadsheets:** Google Sheets / Excel
+- SQL: CTEs, joins, aggregations, cohort analysis  
+- Python: Pandas, data cleaning, EDA  
+- Data Visualization: charts and reports  
+- Spreadsheets: Google Sheets, Excel  
 
+---
 
-## Proyectos
-1. **Proyecto 1 – (Nombre del proyecto)**
-   - Objetivo:
-   - Herramientas:
-   - Resultados:
-   - Link:
+## Projects
 
+### Project 1 — *Coming Soon*
+Brief description of the problem, approach, and results.
 
-## 📫 Contacto
+---
 
-- **LinkedIn:** https://www.linkedin.com/in/laura-gomez-delgado-827593374/
-- **Email:** laura.gomdel.89@gmail.com
-- **GitHub:** https://github.com/laugo2389
+## Contact
 
+- LinkedIn: https://www.linkedin.com/in/laura-gomez-delgado-827593374/
+- Email: laura.gomdel.89@gmail.com
+- GitHub: https://github.com/laugo2389
