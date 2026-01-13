@@ -18,3 +18,7 @@ Python (Pandas), Data Cleaning, EDA, Data Visualization
 ## Outcome
 Delivered actionable insights on congestion patterns and performance differences across cities.
 
+## Key Insights
+- Specific cities consistently experience higher congestion levels
+- Traffic delays increase significantly during peak hours
+- Congestion patterns vary notably by region and time of day
