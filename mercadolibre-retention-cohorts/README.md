@@ -19,3 +19,8 @@ SQL (CTEs, joins, aggregations)
 
 ## Outcome
 Identified key drop-off points and provided insights to improve user engagement.
+
+## Key Insights
+- The most critical user drop-off occurs shortly after signup
+- Early engagement strongly influences long-term retention
+- Certain cohorts show significantly higher retention performance than others
