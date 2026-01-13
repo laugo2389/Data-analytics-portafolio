@@ -25,10 +25,15 @@ Currently building real-world projects using SQL and Python, applying techniques
 
 ## Projects
 
-### Customer Retention Analysis
-SQL, Python, Pandas  
-Analyzed user behavior and retention patterns using cohort analysis.  
-[View Project](./customer-retention-analysis)
+### MercadoLibre Retention — Cohort Analysis (D7/D14/D21/D28)
+SQL (CTEs, joins, aggregations)  
+Cohort-based retention analysis to identify user engagement drop-offs.  
+[View Project](./mercadolibre-retention-cohorts)
+
+### Urban Traffic Performance Analysis
+Python (Pandas), Data Cleaning, EDA, Data Visualization  
+Analyzed traffic congestion metrics to uncover patterns and insights across cities.  
+[View Project](./urban-traffic-performance)
 
 ---
 
