@@ -1,36 +1,21 @@
-# Urban-Traffic-Performance
+# MercadoLibre Retention — Cohort Analysis
 
 ## Business Problem
-An e-commerce company observed fluctuations in user retention and revenue.  
-The goal was to analyze customer behavior to identify retention patterns and opportunities for growth.
+Understand how user engagement evolves after signup and identify where retention drops.
 
 ## Dataset
-Transactional user activity data including:
-- user_id
-- registration_date
-- order_date
-- revenue
-- product_category
+User activity dataset including signup date, activity date, and engagement indicators.
 
-## Objectives
-- Analyze user retention over time  
-- Perform cohort analysis  
-- Identify churn patterns  
-- Evaluate key product metrics (ARPU, LTV, retention rate)
+## Methodology
+- Assigned users to cohorts based on signup month
+- Calculated retention metrics for D7, D14, D21, and D28
+- Analyzed engagement decay over time
 
 ## Tools
-- SQL (CTEs, joins, aggregations)
-- Python (Pandas, EDA)
-- Google Sheets
-- Data visualization
+SQL (CTEs, joins, aggregations)
 
 ## Key Metrics
-- Retention rate  
-- Churn rate  
-- ARPU  
-- LTV  
+- Retention rate (D7, D14, D21, D28)
 
-## Results & Insights
-- Identified critical drop-off points in the user lifecycle  
-- Discovered high-performing user cohorts  
-- Provided data-driven recommendations to improve retention and revenue
+## Outcome
+Identified key drop-off points and provided insights to improve user engagement.
