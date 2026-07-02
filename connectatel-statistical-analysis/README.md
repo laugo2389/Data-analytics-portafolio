@@ -46,8 +46,3 @@ This folder will include:
 - Charts
 - Documentation
 
----
-
-## Status
-
-🚧 In progress
