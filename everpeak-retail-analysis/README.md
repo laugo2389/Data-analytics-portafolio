@@ -46,8 +46,3 @@ This folder will include:
 - Images
 - Documentation
 
----
-
-## Status
-
-🚧 In progress
