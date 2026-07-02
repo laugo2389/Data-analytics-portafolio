@@ -1,4 +1,4 @@
-# Laura Gomez — Data Analyst
+# 📊 Laura Gomez | Data Analytics Portfolio
 
 SQL • Python • Pandas • Data Visualization • Google Sheets  
 Guadalajara, MX | Open to Remote Opportunities
